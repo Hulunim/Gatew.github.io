@@ -85,21 +85,20 @@ Understanding and application of course concepts (linked to outcome 6 and 8)
 Total	100%	
 
 
-  # 6. Reading Materials
-1.	Mrode, R. (Eds.) (2014) Linear models for the prediction of animal breeding values
-2.	Gerald Wiener (1994) Animal Breeding 
-3. Stephen C Bishop, Roger F E Axford, Frank W Nicholas, John B Owen (2010). Breeding for Disease Resistance in Farm Animals
-4.	Malcolm, B. W. (1991) Dalton’s Introduction to Practical Animal Breeding 
-5.	Bourdon, Richard M. (2000) Understanding Animal Breeding Daniel L. Hart and Andrew G. Clark (1997).
-6.	Principles of Population Genetics
-7.	Falconer D.S. (1989). Introduction to Quantitative Genetics. 3rd ed.
-8.	Michael L. and Bruce W. (1998). Genetics and Analysis of Quantitative Traits 
-9.	Gerald Wiener (1994). Animal Breeding
-10.	L. Dale Van Vleck (1993). Selection index & Introduction to mixed model methods. 
-11.	Michael, L. & Bruce Walsh (1995). Genetics & Analysis of Quantitative traits
-12.	Van Vleck, L.D.; E.J, Pollak & E.A.B. Oltenacu (1987). Genetics for the animal science
+  # 6. Core textbooks and recommended reading
+  1. Oldenbroek, K., & Calus, M. (2024). Textbook Animal Breeding and Genetics for BSc-students. 2nd ed. Wageningen University & Research.
+2. Simm, G., Pollott, G., Mrode, R. A., Houston, R., & Marshall, K. (2020). Genetic Improvement of Farmed Animals. CABI.
+Recommended for genetic variation, breeding-value prediction, selection response, genomics, and practical breeding applications in livestock.
+3. Mrode, R. A., & Pocrnić, I. (2023). Linear Models for the Prediction of the Genetic Merit of Animals. 4th ed.
+4. Spangler, M. L. (Ed.). (2023). Animal Breeding and Genetics. Springer.
+Covers quantitative and molecular genetics, genetic evaluation, and applications of genetics in sustainable animal production.
+5. Bourdon, R. M. (2000). Understanding Animal Breeding. 2nd ed. Prentice Hall.
+A useful foundational reference for selection, genetic parameters, and breeding programme principles.
+6. Falconer, D. S., & Mackay, T. F. C. (1996). Introduction to Quantitative Genetics. 4th ed. Longman.
+7. Lynch, M., & Walsh, B. (1998). Genetics and Analysis of Quantitative Traits. Sinauer Associates.
 
 # Additional Reading Materials
+. ASAP-Bio: Applied Animal Breeding	Course materials on heritability, selection, breeding values, mating systems, and inbreeding https://asap-bio.github.io/course-applied-animal-breeding.html?utm
 . FARM Africa resources: https://www.farmafrica.org/publications/all-publications/?utm
 . ICARDA Resources: https://icarda.org/publications?utm
 . ILRI resources: https://www.ilri.org/knowledge/publications?utm
