@@ -7,10 +7,10 @@ Course status:	Core
 Credit hours:	3 (2+1)
 lecturer: Hulunim Gatew Tariku
 
-# 1. Course description
+# 1. Course Description
 Applied Animal Breeding covers the genetic principles and practical methods used to improve the productivity, efficiency, and sustainability of farm animals. The course addresses the genetic basis of variation, economically important traits, selection and genetic gain, animal identification and performance recording, environmental adjustment of records, breeding value estimation, selection methods, and mating systems. It also examines inbreeding, inbreeding depression, heterosis, pure breeding, and crossbreeding, with emphasis on the design, implementation, and evaluation of effective breeding programmes under different production systems, including smallholder and community-based systems.
 
-# 2. Course learning outcomes
+# 2. Course Learning Outcomes
 1.	Explain the genetic principles underlying animal improvement, including sources of variation, heritability, and genetic correlations.
 2.	Identify and prioritise economically important production, reproduction, health, and fitness traits for a defined livestock production system.
 3.	Design an appropriate animal identification and performance-recording system and explain how records should be standardised for fair comparisons.
@@ -20,7 +20,7 @@ Applied Animal Breeding covers the genetic principles and practical methods used
 7.	Develop and justify a breeding programme for a defined production system, including objectives, recording, genetic evaluation, selection, mating, and implementation.
 8.	Evaluate an existing breeding intervention and make evidence-based recommendations, including consideration of community-based breeding programmes where appropriate.
    
-# 3. Course content
+# 3. Course Content
 # Unit 1. Introduction to Applied Animal Breeding
 •	Definition, objectives, and scope of animal breeding
 •	Natural and artificial selection
@@ -65,7 +65,7 @@ Applied Animal Breeding covers the genetic principles and practical methods used
 •	Implementation, dissemination, monitoring, and evaluation
 •	Community-based breeding programmes and stakeholder participation
 
-# 4. Teaching and learning methods
+# 4. Teaching and Learning Methods
 •	Interactive lectures: Use short explanations, questions, and worked examples to introduce key concepts.
 •	Problem-based learning: Have students calculate selection response, interpret heritability, compare candidates, and calculate relationships or inbreeding coefficients.
 •	Practical record analysis: Provide sample livestock performance records for checking, summarising, comparing, and interpreting.
@@ -73,7 +73,7 @@ Applied Animal Breeding covers the genetic principles and practical methods used
 •	Group work: Ask groups to define a breeding objective and propose a practical breeding programme for a selected livestock production system.
 •	Student presentations: Require students to justify their choice of traits, recording strategy, selection method, and mating system.
 
-# 5. Assessment plan
+# 5. Assessment Plan
 Individual problem-solving assignments	20%	
 Calculations and interpretation of genetic parameters, selection response, and inbreeding (linked to outcome 1 2 and 3)
 Practical performance-record analysis / genetic evaluation	20%
@@ -85,7 +85,7 @@ Understanding and application of course concepts (linked to outcome 6 and 8)
 Total	100%	
 
 
-  # 6. Materials
+  # 6. Reading Materials
 1.	Mrode, R. (Eds.) (2014) Linear models for the prediction of animal breeding values
 2.	Gerald Wiener (1994) Animal Breeding 
 3. Stephen C Bishop, Roger F E Axford, Frank W Nicholas, John B Owen (2010). Breeding for Disease Resistance in Farm Animals
@@ -99,10 +99,10 @@ Total	100%
 11.	Michael, L. & Bruce Walsh (1995). Genetics & Analysis of Quantitative traits
 12.	Van Vleck, L.D.; E.J, Pollak & E.A.B. Oltenacu (1987). Genetics for the animal science
 
-# Additional Resources
-. FARM Africa resources
-. ICARDA Resources
-. ILRI resources
-. FAO resources
+# Additional Reading Materials
+. FARM Africa resources: https://www.farmafrica.org/publications/all-publications/?utm
+. ICARDA Resources: https://icarda.org/publications?utm
+. ILRI resources: https://www.ilri.org/knowledge/publications?utm
+. FAO resources: https://www.fao.org/publications/en?utm
 
 
